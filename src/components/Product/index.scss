@@ -1,0 +1,19 @@
+.product.MuiPaper-root {
+  width: 400px;
+  height: 300px;
+  margin: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+
+  .img {
+    width: 300px;
+    height: 250px;
+  }
+
+  .product-name {
+    text-align: center;
+  }
+}
